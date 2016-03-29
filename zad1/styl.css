@@ -1,0 +1,14 @@
+biuro {
+	display: table;
+	border: solid 1px;
+}
+
+pracownik {
+	display: table-row;
+}
+
+pracownik > * {
+	padding: 4px;
+	display: table-cell;
+	border: solid 1px;
+}

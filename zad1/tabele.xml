@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styl.css"?>
+<biuro>
+	<pracownik>
+		<imie>Michal</imie>
+		<nazwisko>Nowak</nazwisko>
+		<wiek>45</wiek>
+		<plec>mężczyzna</plec>
+		<pensja>34000</pensja>
+	</pracownik>
+	<pracownik>
+		<imie>Danuta</imie>
+		<nazwisko>Kowalska</nazwisko>
+		<wiek>27</wiek>
+		<plec>kobieta</plec>
+		<pensja>150000</pensja>
+	</pracownik>
+	<pracownik>
+		<imie>Marcin</imie>
+		<nazwisko>Kamiński</nazwisko>
+		<wiek>34</wiek>
+		<plec>mężczyzna</plec>
+		<pensja>14500</pensja>
+	</pracownik>
+	<pracownik>
+		<imie>Mateusz</imie>
+		<nazwisko>Mela</nazwisko>
+		<wiek>45</wiek>
+		<plec>mężczyzna</plec>
+		<pensja>530</pensja>
+	</pracownik>
+	<pracownik>
+		<imie>Majka</imie>
+		<nazwisko>Ryż</nazwisko>
+		<wiek>73</wiek>
+		<plec>kobieta</plec>
+		<pensja>340</pensja>
+	</pracownik>
+	<pracownik>
+		<imie>John</imie>
+		<nazwisko>Smith</nazwisko>
+		<wiek>45</wiek>
+		<plec>mężczyzna</plec>
+		<pensja>11530</pensja>
+	</pracownik>
+</biuro>
