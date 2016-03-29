@@ -1,0 +1,7 @@
+<!ELEMENT biuro (pracownik*) >
+<!ELEMENT pracownik (imie+, nazwisko+, wiek, plec, pensja+) >
+<!ELEMENT imie (#PCDATA) >
+<!ELEMENT nazwisko (#PCDATA) >
+<!ELEMENT wiek (#PCDATA) >
+<!ELEMENT plec (#PCDATA) >
+<!ELEMENT pensja (#PCDATA) >
