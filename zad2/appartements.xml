@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appartements>
+<appartement id="1">
+    <address>04 Szarych Szeregów 76-373 Grudziądz</address>
+    <city>Zabrze</city>
+    <area>133</area>
+    <rooms>10</rooms>
+    <year>1984</year>
+    <price>301229</price>
+</appartement>
+
+<appartement id="2">
+    <address>32 Wczasowa 39-268 Sosnowiec</address>
+    <city>Polkowice</city>
+    <area>128</area>
+    <rooms>4</rooms>
+    <year>1996</year>
+    <price>509656</price>
+</appartement>
+
+<appartement id="3">
+    <address>93 Turkusowa 68-400 Polkowice</address>
+    <city>Jarocin</city>
+    <area>139</area>
+    <rooms>3</rooms>
+    <year>1976</year>
+    <price>374296</price>
+</appartement>
+
+<appartement id="4">
+    <address>64 Irysowa 67-088 Bydgoszcz</address>
+    <city>Lębork</city>
+    <area>130</area>
+    <rooms>4</rooms>
+    <year>1982</year>
+    <price>628861</price>
+</appartement>
+
+<appartement id="5">
+    <address>69 Nowowiejska 02-211 Koszalin</address>
+    <city>Wodzisław Śląski</city>
+    <area>70</area>
+    <rooms>10</rooms>
+    <year>1984</year>
+    <price>316335</price>
+</appartement>
+
+<appartement id="6">
+    <address>98 Sosnowa 48-429 Ostrów Mazowiecka</address>
+    <city>Gorzów Wielkopolski</city>
+    <area>150</area>
+    <rooms>7</rooms>
+    <year>1972</year>
+    <price>725465</price>
+</appartement>
+
+<appartement id="7">
+    <address>21 Porzeczkowa 44-442 Częstochowa</address>
+    <city>Brzeg</city>
+    <area>46</area>
+    <rooms>8</rooms>
+    <year>1971</year>
+    <price>848671</price>
+</appartement>
+
+<appartement id="8">
+    <address>99 Staffa 69-102 Kętrzyn</address>
+    <city>Radomsko</city>
+    <area>89</area>
+    <rooms>10</rooms>
+    <year>1997</year>
+    <price>286293</price>
+</appartement>
+
+<appartement id="9">
+    <address>53 Borówkowa 79-061 Bielsko-Biała</address>
+    <city>Zgorzelec</city>
+    <area>100</area>
+    <rooms>2</rooms>
+    <year>1982</year>
+    <price>159312</price>
+</appartement>
+
+<appartement id="10">
+    <address>20 Pogodna 17-015 Dębica</address>
+    <city>Gorzów Wielkopolski</city>
+    <area>149</area>
+    <rooms>10</rooms>
+    <year>1979</year>
+    <price>634705</price>
+</appartement>
+</appartements>

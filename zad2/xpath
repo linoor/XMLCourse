@@ -1,0 +1,54 @@
+1)
+//appartement[position()=last()]/address
+<address>20 Pogodna 17-015 Dębica</address>
+
+//appartement[position()=last()]/city
+<city>Gorzów Wielkopolski</city>
+
+//appartement[position()=last()]/area
+<area>149</area>
+
+//appartement[position()=last()]/rooms
+<rooms>10</rooms>
+
+//appartement[position()=last()]/year
+<year>1979</year>
+
+//appartement[position()=last()]/price
+<price>634705</price>
+
+wszystkie naraz:
+//appartement[position()=(last()-1)]
+<appartement id="8">
+    <address>53 Borówkowa 79-061 Bielsko-Biała</address>
+    <city>Zgorzelec</city>
+    <area>100</area>
+    <rooms>2</rooms>
+    <year>1982</year>
+    <price>159312</price>
+</appartement>
+
+2) cena przedostatniego mieszkania:
+//appartement[position()=(last()-1)]/price
+<price>159312</price>
+
+3) dane mieszkana na podstawie id:
+//appartement[position()=1]
+<appartement id="1">
+    <address>04 Szarych Szeregów 76-373 Grudziądz</address>
+    <city>Zabrze</city>
+    <area>133</area>
+    <rooms>10</rooms>
+    <year>1984</year>
+    <price>301229</price>
+</appartement>
+
+//appartement[position()=7]
+<appartement id="7">
+    <address>21 Porzeczkowa 44-442 Częstochowa</address>
+    <city>Brzeg</city>
+    <area>46</area>
+    <rooms>8</rooms>
+    <year>1971</year>
+    <price>848671</price>
+</appartement>
