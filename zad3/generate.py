@@ -8,23 +8,22 @@ fake = Factory.create('pl_PL')
 
 if __name__ == '__main__':
     template = """
-<appartement id="{id}">
-    <address>{address}</address>
-    <city>{city}</city>
-    <area>{area}</area>
-    <rooms>{rooms}</rooms>
-    <year>{year}</year>
-    <price>{price}</price>
-</appartement>
-"""
+    <samochod>
+        <marka>{marka}</marka>
+        <model>{model}</model>
+        <rocznik>{rocznik}</rocznik>
+        <num_kat>{num_kat}</num_kat>
+        <cena>{cena}</cena>
+    </samochod>
+    """
 
-    root_node = 'appartement'
-    generate(root_node, template, {
-        'id': 1,
-        'address': fake.address(),
-        'city': fake.city(),
-        'year': randint(1970, 2000),
-        'rooms': randint(2, 10),
-        'area': randint(40, 150),
-        'price': randint(100000, 1000000)
-    }, 'test.xml')
+    def gen_fun():
+        return template.format(**{
+            'marka': fake.text()[:10],
+            'model': fake.text()[:10],
+            'rocznik': randint(1970, 2000),
+            'num_kat': randint(1000, 2000),
+            'cena': randint(10000, 50000)
+        })
+
+    generate('cennik', gen_fun, 'ceny.xml')
