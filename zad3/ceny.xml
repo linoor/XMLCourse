@@ -1,0 +1,81 @@
+<cennik>
+    <samochod>
+        <marka>Voluptas i</marka>
+        <model>Perferendi</model>
+        <rocznik>1980</rocznik>
+        <num_kat>1338</num_kat>
+        <cena>33794</cena>
+    </samochod>
+    
+    <samochod>
+        <marka>Veritatis </marka>
+        <model>Placeat du</model>
+        <rocznik>1992</rocznik>
+        <num_kat>1673</num_kat>
+        <cena>46337</cena>
+    </samochod>
+    
+    <samochod>
+        <marka>Unde iure </marka>
+        <model>Similique </model>
+        <rocznik>1985</rocznik>
+        <num_kat>1274</num_kat>
+        <cena>22515</cena>
+    </samochod>
+    
+    <samochod>
+        <marka>Iure enim </marka>
+        <model>Soluta mol</model>
+        <rocznik>1970</rocznik>
+        <num_kat>1786</num_kat>
+        <cena>25240</cena>
+    </samochod>
+    
+    <samochod>
+        <marka>Eos illum </marka>
+        <model>Illum nesc</model>
+        <rocznik>1970</rocznik>
+        <num_kat>1365</num_kat>
+        <cena>26826</cena>
+    </samochod>
+    
+    <samochod>
+        <marka>Mollitia m</marka>
+        <model>Doloribus </model>
+        <rocznik>1995</rocznik>
+        <num_kat>1986</num_kat>
+        <cena>15100</cena>
+    </samochod>
+    
+    <samochod>
+        <marka>Occaecati </marka>
+        <model>Nostrum mi</model>
+        <rocznik>1979</rocznik>
+        <num_kat>1606</num_kat>
+        <cena>41366</cena>
+    </samochod>
+    
+    <samochod>
+        <marka>Numquam co</marka>
+        <model>Hic sapien</model>
+        <rocznik>1992</rocznik>
+        <num_kat>1787</num_kat>
+        <cena>10371</cena>
+    </samochod>
+    
+    <samochod>
+        <marka>Ipsa ullam</marka>
+        <model>Nam animi </model>
+        <rocznik>1972</rocznik>
+        <num_kat>1230</num_kat>
+        <cena>32275</cena>
+    </samochod>
+    
+    <samochod>
+        <marka>Deserunt i</marka>
+        <model>Rerum volu</model>
+        <rocznik>1985</rocznik>
+        <num_kat>1694</num_kat>
+        <cena>15545</cena>
+    </samochod>
+</cennik>
